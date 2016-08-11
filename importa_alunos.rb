@@ -8,7 +8,7 @@ require 'httparty'
 #valores padrao
 ip_da_maquina = "10.100.20.9"
 usuario = "admin"
-senha = "admin"
+senha = ""
 arquivo = "enrollments.csv"
 acao = "1"
 
